@@ -11,7 +11,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, empreendedora de al
 
 🚀 Projeto em destaque:
 **🔧 Ford Enter** – Um projeto fullstack encantado!  
-Unindo **JavaScript** no front-end e **Python** no back-end, o Ford Enter cria soluções mágicas e funcionais para controle de entrada de veículos. Sim, eu conjuro APIs também! 😄
+Unindo **JavaScript** no front-end e **Python** no back-end, o Ford Enter ! 😄
 
 ![Witchy Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q5anlvNWJvM2QwYTdxdm51cHNuaXlneTNqYzFzMmE2ZzR3b2c1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/loIQST9QmwzyWgxd4u/giphy.gif)
 
