@@ -6,6 +6,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, empreendedora de al
 - Desenvolvimento Web
 - Lógica de Programação
 - Estrutura de Dados
+
+
+
+
+
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 🚀 Projeto em destaque:
