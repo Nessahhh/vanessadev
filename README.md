@@ -1,13 +1,12 @@
 ### Olá, eu sou a Vanessa! 👋✨
 
-![Witchy Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml3Y2dhazQ2aWYxMnR6cHdtdXAyMHoxb2M4cTg4ZzBsbjV2a3dpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K2FGr0zPrEeyg/giphy.gif)
-
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, empreendedora de alma e uma verdadeira aprendiz da tecnologia e da vida. Como uma bruxinha moderna, estou transformando desafios em oportunidades, com coragem, magia e muitos códigos encantados! ✨
 
 💻 Atualmente estudando:
 - Desenvolvimento Web
 - Lógica de Programação
 - Estrutura de Dados
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 🚀 Projeto em destaque:
 **🔧 Ford Enter** – Um projeto fullstack encantado!  
