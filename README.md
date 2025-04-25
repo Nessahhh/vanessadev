@@ -15,7 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, empreendedora de al
 
 🚀 Projeto em destaque:
 **🔧 Ford Enter** – Um projeto fullstack encantado!  
-Unindo **JavaScript** no front-end e **Python** no back-end, o Ford Enter ! 😄
+Unindo  no front-end**Python** e ***JavaScript* no back-end, o Ford Enter ! 😄
 
 🌱 Me interesso também por:
 - Empreendedorismo digital
